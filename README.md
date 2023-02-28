@@ -2,8 +2,8 @@
 
 ## Team Members
 
-1. Sai Krishna Kaushik Manchiraju (mancs01@pfw.edu)
-2. Ranjit Singh Bisht (bishrs01@pfw.edu)
+1. Kaushik Manchiraju
+2. Ranjit Bisht
 
 ## About
 CS590 Blockchain Project : Medical Supply Chain DApp
